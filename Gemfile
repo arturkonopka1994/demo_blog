@@ -25,6 +25,9 @@ gem 'jbuilder', '~> 2.7'
 # dotenv for keys storage secaurity
 gem 'dotenv-rails', groups: [:development, :test]
 
+# cloudinary for images storage
+gem 'cloudinary', '~> 1.20'
+
 # Use Active Storage variant
 # gem 'image_processing', '~> 1.2'
 
